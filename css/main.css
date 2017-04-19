@@ -88,9 +88,9 @@ html,body{height:100%;}h1,h2{font-weight:normal;}
 /*机制图*/
 .h-20{height:20%;}.h-80{height:80%;}.ib{display:inline-block;}
 .middle:before{content:"";display:inline-block;width:0;height:100%;vertical-align:middle;}
-.flow-tit{font-weight:bold;color:#48c8fe;font-size:50px;text-align:center;padding-bottom:40px;}
-.flow-img{width:80%;}
-.flow-chart{position:relative;box-sizing:border-box;}
+.flow-tit{font-weight:bold;color:#48c8fe;font-size:50px;text-align:center;height:15%;}
+.flow-img{width:85%;}
+.flow-chart{position:relative;box-sizing:border-box;height:80%;}
 .flow-chart .icon1{position:absolute;left:0;top:0;width:200px;}
 
 .hidden{overflow:hidden;}
